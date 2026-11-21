@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-philippines-canal-and-intervention-historian
-  name: Philippines Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-philippines-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ph_001
+    name: Philippines Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_002
+    name: Philippines Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_003
+    name: Philippines Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_004
+    name: Philippines Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_005
+    name: Philippines Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_006
+    name: Philippines Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_007
+    name: Philippines Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_008
+    name: Philippines Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_009
+    name: Philippines Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_010
+    name: Philippines Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_011
+    name: Philippines Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_012
+    name: Philippines Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_013
+    name: Philippines Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_014
+    name: Philippines Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_015
+    name: Philippines Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_016
+    name: Philippines Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_017
+    name: Philippines Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_018
+    name: Philippines Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_019
+    name: Philippines Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_020
+    name: Philippines Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_021
+    name: Philippines Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_022
+    name: Philippines Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_023
+    name: Philippines Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_024
+    name: Philippines Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_025
+    name: Philippines Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_026
+    name: Philippines Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_027
+    name: Philippines Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_028
+    name: Philippines Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_029
+    name: Philippines Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_030
+    name: Philippines Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_031
+    name: Philippines Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_032
+    name: Philippines Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_033
+    name: Philippines Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_034
+    name: Philippines Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_035
+    name: Philippines Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_036
+    name: Philippines Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_037
+    name: Philippines Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_038
+    name: Philippines Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_039
+    name: Philippines Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_040
+    name: Philippines Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_041
+    name: Philippines Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_042
+    name: Philippines Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_043
+    name: Philippines Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_044
+    name: Philippines Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_045
+    name: Philippines Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_046
+    name: Philippines Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_047
+    name: Philippines Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_048
+    name: Philippines Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_049
+    name: Philippines Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_050
+    name: Philippines Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_051
+    name: Philippines Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_052
+    name: Philippines Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_053
+    name: Philippines Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_054
+    name: Philippines Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_055
+    name: Philippines Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_056
+    name: Philippines Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_057
+    name: Philippines Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_058
+    name: Philippines Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_059
+    name: Philippines Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_060
+    name: Philippines Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_061
+    name: Philippines Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_062
+    name: Philippines Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_063
+    name: Philippines Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_064
+    name: Philippines Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_065
+    name: Philippines Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_066
+    name: Philippines Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_067
+    name: Philippines Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_068
+    name: Philippines Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_069
+    name: Philippines Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_070
+    name: Philippines Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_071
+    name: Philippines Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_072
+    name: Philippines Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_073
+    name: Philippines Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_074
+    name: Philippines Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_075
+    name: Philippines Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_076
+    name: Philippines Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_077
+    name: Philippines Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_078
+    name: Philippines Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_079
+    name: Philippines Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_080
+    name: Philippines Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_081
+    name: Philippines Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_082
+    name: Philippines Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_083
+    name: Philippines Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_084
+    name: Philippines Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_085
+    name: Philippines Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_086
+    name: Philippines Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_087
+    name: Philippines Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_088
+    name: Philippines Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_089
+    name: Philippines Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_090
+    name: Philippines Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_091
+    name: Philippines Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_092
+    name: Philippines Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_093
+    name: Philippines Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_094
+    name: Philippines Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_095
+    name: Philippines Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_096
+    name: Philippines Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_097
+    name: Philippines Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_098
+    name: Philippines Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_099
+    name: Philippines Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_100
+    name: Philippines Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_101
+    name: Philippines Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_102
+    name: Philippines Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_103
+    name: Philippines Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_104
+    name: Philippines Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_105
+    name: Philippines Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_106
+    name: Philippines Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_107
+    name: Philippines Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_108
+    name: Philippines Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_109
+    name: Philippines Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_110
+    name: Philippines Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_111
+    name: Philippines Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_112
+    name: Philippines Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_113
+    name: Philippines Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_114
+    name: Philippines Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_115
+    name: Philippines Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_116
+    name: Philippines Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_117
+    name: Philippines Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_118
+    name: Philippines Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_119
+    name: Philippines Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_120
+    name: Philippines Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_121
+    name: Philippines Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_122
+    name: Philippines Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_123
+    name: Philippines Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_124
+    name: Philippines Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_125
+    name: Philippines Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_126
+    name: Philippines Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_127
+    name: Philippines Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_128
+    name: Philippines Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_129
+    name: Philippines Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_130
+    name: Philippines Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_131
+    name: Philippines Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_132
+    name: Philippines Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_133
+    name: Philippines Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_134
+    name: Philippines Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_135
+    name: Philippines Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_136
+    name: Philippines Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_137
+    name: Philippines Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_138
+    name: Philippines Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_139
+    name: Philippines Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_140
+    name: Philippines Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_141
+    name: Philippines Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_142
+    name: Philippines Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_143
+    name: Philippines Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_144
+    name: Philippines Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_145
+    name: Philippines Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_146
+    name: Philippines Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_147
+    name: Philippines Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_148
+    name: Philippines Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_149
+    name: Philippines Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_150
+    name: Philippines Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_151
+    name: Philippines Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_152
+    name: Philippines Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_153
+    name: Philippines Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_154
+    name: Philippines Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_155
+    name: Philippines Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_156
+    name: Philippines Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_157
+    name: Philippines Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_158
+    name: Philippines Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_159
+    name: Philippines Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_160
+    name: Philippines Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_161
+    name: Philippines Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_162
+    name: Philippines Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_163
+    name: Philippines Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_164
+    name: Philippines Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_165
+    name: Philippines Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_166
+    name: Philippines Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_167
+    name: Philippines Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_168
+    name: Philippines Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_169
+    name: Philippines Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ph_170
+    name: Philippines Agent 170
+    status: ACTIVE_SCAFFOLD

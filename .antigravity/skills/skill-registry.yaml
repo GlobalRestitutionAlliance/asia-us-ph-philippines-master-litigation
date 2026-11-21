@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: philippinesian-restitution-roadmap-and-qsf-trust-execution
-  name: Philippinesian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/philippinesian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ph_001
+    name: Philippines Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_002
+    name: Philippines Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_003
+    name: Philippines Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_004
+    name: Philippines Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_005
+    name: Philippines Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_006
+    name: Philippines Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_007
+    name: Philippines Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_008
+    name: Philippines Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_009
+    name: Philippines Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_010
+    name: Philippines Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_011
+    name: Philippines Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_012
+    name: Philippines Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_013
+    name: Philippines Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_014
+    name: Philippines Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_015
+    name: Philippines Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_016
+    name: Philippines Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_017
+    name: Philippines Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_018
+    name: Philippines Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_019
+    name: Philippines Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_020
+    name: Philippines Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_021
+    name: Philippines Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_022
+    name: Philippines Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_023
+    name: Philippines Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_024
+    name: Philippines Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_025
+    name: Philippines Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_026
+    name: Philippines Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_027
+    name: Philippines Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_028
+    name: Philippines Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_029
+    name: Philippines Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_030
+    name: Philippines Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_031
+    name: Philippines Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_032
+    name: Philippines Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_033
+    name: Philippines Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_034
+    name: Philippines Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_035
+    name: Philippines Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_036
+    name: Philippines Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_037
+    name: Philippines Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_038
+    name: Philippines Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_039
+    name: Philippines Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_040
+    name: Philippines Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_041
+    name: Philippines Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_042
+    name: Philippines Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_043
+    name: Philippines Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_044
+    name: Philippines Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_045
+    name: Philippines Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_046
+    name: Philippines Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_047
+    name: Philippines Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_048
+    name: Philippines Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_049
+    name: Philippines Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_050
+    name: Philippines Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_051
+    name: Philippines Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_052
+    name: Philippines Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_053
+    name: Philippines Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_054
+    name: Philippines Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_055
+    name: Philippines Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_056
+    name: Philippines Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_057
+    name: Philippines Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_058
+    name: Philippines Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_059
+    name: Philippines Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_060
+    name: Philippines Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_061
+    name: Philippines Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_062
+    name: Philippines Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_063
+    name: Philippines Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_064
+    name: Philippines Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_065
+    name: Philippines Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_066
+    name: Philippines Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_067
+    name: Philippines Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_068
+    name: Philippines Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_069
+    name: Philippines Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_070
+    name: Philippines Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_071
+    name: Philippines Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_072
+    name: Philippines Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_073
+    name: Philippines Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_074
+    name: Philippines Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_075
+    name: Philippines Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_076
+    name: Philippines Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_077
+    name: Philippines Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_078
+    name: Philippines Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_079
+    name: Philippines Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_080
+    name: Philippines Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_081
+    name: Philippines Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_082
+    name: Philippines Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_083
+    name: Philippines Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_084
+    name: Philippines Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_085
+    name: Philippines Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_086
+    name: Philippines Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_087
+    name: Philippines Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_088
+    name: Philippines Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_089
+    name: Philippines Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_090
+    name: Philippines Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_091
+    name: Philippines Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_092
+    name: Philippines Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_093
+    name: Philippines Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_094
+    name: Philippines Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_095
+    name: Philippines Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_096
+    name: Philippines Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_097
+    name: Philippines Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_098
+    name: Philippines Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_099
+    name: Philippines Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_100
+    name: Philippines Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_101
+    name: Philippines Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_102
+    name: Philippines Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_103
+    name: Philippines Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_104
+    name: Philippines Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_105
+    name: Philippines Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_106
+    name: Philippines Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_107
+    name: Philippines Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_108
+    name: Philippines Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_109
+    name: Philippines Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_110
+    name: Philippines Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_111
+    name: Philippines Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_112
+    name: Philippines Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_113
+    name: Philippines Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_114
+    name: Philippines Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_115
+    name: Philippines Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_116
+    name: Philippines Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_117
+    name: Philippines Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_118
+    name: Philippines Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_119
+    name: Philippines Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_120
+    name: Philippines Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_121
+    name: Philippines Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_122
+    name: Philippines Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_123
+    name: Philippines Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_124
+    name: Philippines Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_125
+    name: Philippines Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_126
+    name: Philippines Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_127
+    name: Philippines Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_128
+    name: Philippines Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_129
+    name: Philippines Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_130
+    name: Philippines Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_131
+    name: Philippines Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_132
+    name: Philippines Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_133
+    name: Philippines Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_134
+    name: Philippines Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_135
+    name: Philippines Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_136
+    name: Philippines Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_137
+    name: Philippines Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_138
+    name: Philippines Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_139
+    name: Philippines Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_140
+    name: Philippines Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_141
+    name: Philippines Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_142
+    name: Philippines Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_143
+    name: Philippines Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_144
+    name: Philippines Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_145
+    name: Philippines Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_146
+    name: Philippines Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_147
+    name: Philippines Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_148
+    name: Philippines Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_149
+    name: Philippines Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_150
+    name: Philippines Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_151
+    name: Philippines Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_152
+    name: Philippines Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_153
+    name: Philippines Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_154
+    name: Philippines Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_155
+    name: Philippines Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_156
+    name: Philippines Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_157
+    name: Philippines Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_158
+    name: Philippines Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_159
+    name: Philippines Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_160
+    name: Philippines Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_161
+    name: Philippines Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_162
+    name: Philippines Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_163
+    name: Philippines Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_164
+    name: Philippines Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_165
+    name: Philippines Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_166
+    name: Philippines Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_167
+    name: Philippines Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_168
+    name: Philippines Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_169
+    name: Philippines Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_170
+    name: Philippines Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_171
+    name: Philippines Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_172
+    name: Philippines Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_173
+    name: Philippines Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_174
+    name: Philippines Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_175
+    name: Philippines Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_176
+    name: Philippines Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_177
+    name: Philippines Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_178
+    name: Philippines Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_179
+    name: Philippines Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_180
+    name: Philippines Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_181
+    name: Philippines Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_182
+    name: Philippines Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_183
+    name: Philippines Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_184
+    name: Philippines Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_185
+    name: Philippines Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_186
+    name: Philippines Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_187
+    name: Philippines Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_188
+    name: Philippines Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_189
+    name: Philippines Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_190
+    name: Philippines Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_191
+    name: Philippines Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_192
+    name: Philippines Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_193
+    name: Philippines Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_194
+    name: Philippines Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_195
+    name: Philippines Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_196
+    name: Philippines Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_197
+    name: Philippines Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_198
+    name: Philippines Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_199
+    name: Philippines Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_200
+    name: Philippines Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_201
+    name: Philippines Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_202
+    name: Philippines Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_203
+    name: Philippines Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_204
+    name: Philippines Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_205
+    name: Philippines Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_206
+    name: Philippines Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_207
+    name: Philippines Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_208
+    name: Philippines Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_209
+    name: Philippines Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_210
+    name: Philippines Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_211
+    name: Philippines Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_212
+    name: Philippines Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_213
+    name: Philippines Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_214
+    name: Philippines Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_215
+    name: Philippines Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_216
+    name: Philippines Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_217
+    name: Philippines Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_218
+    name: Philippines Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_219
+    name: Philippines Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_220
+    name: Philippines Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_221
+    name: Philippines Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_222
+    name: Philippines Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_223
+    name: Philippines Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_224
+    name: Philippines Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_225
+    name: Philippines Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_226
+    name: Philippines Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_227
+    name: Philippines Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_228
+    name: Philippines Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_229
+    name: Philippines Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_230
+    name: Philippines Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_231
+    name: Philippines Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_232
+    name: Philippines Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_233
+    name: Philippines Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_234
+    name: Philippines Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_235
+    name: Philippines Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_236
+    name: Philippines Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_237
+    name: Philippines Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_238
+    name: Philippines Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_239
+    name: Philippines Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_240
+    name: Philippines Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_241
+    name: Philippines Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_242
+    name: Philippines Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_243
+    name: Philippines Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_244
+    name: Philippines Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_245
+    name: Philippines Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_246
+    name: Philippines Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_247
+    name: Philippines Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_248
+    name: Philippines Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_249
+    name: Philippines Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_250
+    name: Philippines Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_251
+    name: Philippines Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ph_252
+    name: Philippines Skill 252
+    status: ACTIVE_SCAFFOLD
