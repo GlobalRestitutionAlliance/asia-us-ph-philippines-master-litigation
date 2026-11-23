@@ -1,0 +1,15 @@
+{
+  "url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/philippines/",
+  "final_url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/philippines/",
+  "title": "Amnesty - Philippines",
+  "fetched_at": "2026-11-23T14:20:48.997590Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 106551,
+  "sha256": "33cf803cefb9fe0d8a6558d97a627de07c92b7807ad8689bb89b78accf6b0f5d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}
